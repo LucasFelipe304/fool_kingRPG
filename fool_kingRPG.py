@@ -39,7 +39,12 @@ if escolhaDoPersonagem == 'I':
     for chave, valor in caracteristicas.items():
       print(chave, valor)
   infoMago()
+  pulaLinha()
+  pulaLinha()
+  pulaLinha()
 
+  print("""Depois de mais uma longa noite de caçada pela tumba perdida do Rei Tolo, você acorda sob o que parece ser uma pilha de pedras.""")
+  desejaUtilizarMagiaLuminosa = str(input('Deseja utilizar Magia Luminosa? [S/N]'))
 elif escolhaDoPersonagem == 'II':
   print('Você escolheu Vorrus, o guerreiro.')
   linhaDivisória()
