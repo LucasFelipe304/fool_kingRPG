@@ -93,14 +93,16 @@ if escolhaDoPersonagem == 'I':
             numeroAleatorio = randint(0, 9)
             contador += 1
             print(numeroAleatorio, letraAleatoria, end='')
-
             if contador == 9999999:
               break
+
       pulaLinha()
       sleep(10)
       pulaLinha()
       print('...')
       print('Você')
+
+      
       bugMode()
       
   else:
@@ -128,9 +130,6 @@ if escolhaDoPersonagem == 'I':
     sleep(5)
     print("""Virando para trás e preparado para se defender, tudo ao seu redor parece congelar. No caminho da direita aquela porta finalmente se abre, te mostrando o que parece ser um quarto comúm.""")
     
-
-
-
 
 elif escolhaDoPersonagem == 'II':
   print('Você escolheu Vorrus, o guerreiro.')
