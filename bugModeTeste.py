@@ -17,4 +17,5 @@ def bugMode():
   print('...')
   print('Você')
 
+
 bugMode()
