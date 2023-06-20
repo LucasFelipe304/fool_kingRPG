@@ -104,11 +104,13 @@ if escolhaDaOpçãoPrincipal == 'I':
       sleep(10)
       pulaLinha()
       print('...')
+      
+
+      bugMode()
+
       print('Você')
 
-      
-      bugMode()
-      
+
   else:
     print("""Ainda confuso, você espera algo acontecer...""")
     sleep(5)
@@ -191,5 +193,25 @@ elif escolhaDoPersonagem == 'II':
   sleep(8)
   print("""Então as luzes se apagam.""")
   sleep(60)
+
+  respostavoceEstaAi = ('s') or ('sim')
   voceEstaAi = str(input('Ei, depois de um minuto esperando algo acontecer você ainda está ai?')).lower()
   
+  if voceEstaAi != respostavoceEstaAi:
+    print("""Eu sabia que mais uma vez você ia se esconder. Mais um problema que você está procrastinando e só empurrando ele pros lados com o seu ego e seu orgulho.""")
+    sleep(8)
+    print("""Continue mentindo para si mesmo, isso, continue!""")
+    sleep(8)
+    print("""O mundo não gira em volta de você. Fugir dos problemas não vai te ajudar. Deixe de ser covarde e assuma as responsabilidades.""")
+    sleep(8)
+    print("""Se você não fizer alguma coisa não realizará seus objetivos.""")
+    sleep(8)
+    print("""Alguma coisa aqui faz sentido pra você?""")
+    sleep(5)
+    print("""Espero que isso te faça melhor.""")
+    sleep(10)
+    print('.')
+    pulaLinha()
+
+    bugMode()
+    print('quer')
