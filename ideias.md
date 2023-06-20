@@ -5,3 +5,4 @@
 - no arquivo do .doc colocar fotos dos lugares os quais eu usei como referência.
   - training mode sf 5
   - minecraft
+- ter um minigame de adivinhar coisas sobre mim e quem terá vantagem é quem ler o sobre mim
