@@ -12,6 +12,7 @@ def informacoesPessoais():
   print('Informações Pessoais')
 
 
+
 personagens = ("""I  |Mago: Ewaelle
 II |Guerreiro: Vorrus
 III|Paladino: Raveneye""")
@@ -175,3 +176,20 @@ elif escolhaDoPersonagem == 'II':
   print("""Na escrivaninha também há um livro. Seu título está em outra língua fora do seu conhecimento no momento, porém, foleando as páginas, é visto que elas estão levemente rasgada e com algumas palavras incompletas...""")
   sleep(7)
   print("""As últimas palavras estão em seu idioma, porém não fazem sentido algum. É algo como 'Moedas'...""")
+  sleep(5)
+  print("""Tudo está tão diferente, a vida parece mais...""")
+  sleep(5)
+  print('Cinza?')
+  sleep(8)
+  print("""Ao abrir a porta do quarto você fica espantado com todo aquele lugar. Desde o chão até os cantos do teto é tingido da cor branca, como se fosse um enorme cubo. As paredes tinham divisórias pretas, deixando aquele lugar ainda mais confuso e enorme.""")
+  sleep(8)
+  print("""Após um breve tempo andando cuidadosamente por aquela área, você vê uma enorme torre, com um lago em sua volta...""")
+  sleep(5)
+  print("""O mais bizarro é que, desse lago, moedas brotavam de dentro pra fora, sem nenhuma explicação.""")
+  sleep(8)
+  print("""Você fica paralizado tentando achar alguma explicação plausível para aquilo...""")
+  sleep(8)
+  print("""Então as luzes se apagam.""")
+  sleep(60)
+  voceEstaAi = str(input('Ei, depois de um minuto esperando algo acontecer você ainda está ai?')).lower()
+  
