@@ -12,14 +12,17 @@ def informacoesPessoais():
   print('Informações Pessoais')
 
 
-personagens = ("""I |Mago: Ewaelle
-II|Guerreiro: Vorrus
+personagens = ("""I  |Mago: Ewaelle
+II |Guerreiro: Vorrus
 III|Paladino: Raveneye""")
 print(personagens)
+sobreMimArquivo = ('IV | Sobre mim')
+print(sobreMimArquivo)
 pulaLinha()
 
-escolhaDoPersonagem = str(input('------------> Escolha seu personagem: ')).upper()
-if escolhaDoPersonagem == 'I':
+
+escolhaDaOpçãoPrincipal = str(input('------------> Escolha sua opção: ')).upper()
+if escolhaDaOpçãoPrincipal == 'I':
   print('Você escolheu Ewaelle, o mago.')
   linhaDivisória()
   pulaLinha()
@@ -155,3 +158,20 @@ elif escolhaDoPersonagem == 'II':
     for chave, valor in caracteristicas.items():
       print(chave, valor)
   infoGuerreiro()
+  pulaLinha()
+  pulaLinha()
+  pulaLinha()
+
+  print("""Ao abrir os olhos a sensação é a mesma de ter acordado para mais um dia normal em sua vida.""")
+  sleep(5)
+  print("""O problema é que alí não é a sua casa, e sim um simples quarto o qual pode esconder coisas estranhas.""")
+  sleep(5)
+  print("""Ao se levantar de uma beliche aparentemente nova, você não parece estar sozinho...""")
+  sleep(5)
+  print("""Na cama de cima há outra pessoa: um rapaz com cerca de 1.75 de altura com o rosto sujo e arranhões pelos braços e pernas. Não se sabe o que aconteceu com ele.""")
+  sleep(7)
+  print("""Olhando ao redor do quarto há uma escrivaninha, a mesma sendo ocupada por peças de roupas, roupas bem antigas por sinal. Parece que foi usada por alguém de muitas décadas atrás.""")
+  sleep(7)
+  print("""Na escrivaninha também há um livro. Seu título está em outra língua fora do seu conhecimento no momento, porém, foleando as páginas, é visto que elas estão levemente rasgada e com algumas palavras incompletas...""")
+  sleep(7)
+  print("""As últimas palavras estão em seu idioma, porém não fazem sentido algum. É algo como 'Moedas'...""")
