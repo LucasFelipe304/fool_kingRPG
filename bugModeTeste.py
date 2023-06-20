@@ -15,7 +15,5 @@ def bugMode():
   sleep(10)
   print()
   print('...')
-  print('Você')
-
 
 bugMode()
