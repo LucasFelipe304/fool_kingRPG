@@ -10,3 +10,4 @@
 - no fim de tudo, organizar o código com funções e etc
 - no read.me do jogo, indicar ler o "sobre mim" primeiro antes de jogar. A gameplay do guerreiro deve acabar confusa e na gameplay do paladino, deve começar com ele seguindo o mesmo caminho do mago, porém seguindo pelo corredor da esquerda, onde é tudo escuro e etc.
 - no final, a lição de moral é que, se você não se esforçar, não conseguirá realizar seus objetivos.
+- não esquecer de colocar break quando estiver revisando e limpando o código
