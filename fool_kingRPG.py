@@ -14,11 +14,10 @@ def informacoesPessoais():
 
 
 personagens = ("""I  |Mago: Ewaelle
-II |Guerreiro: Vorrus
-III|Paladino: Raveneye""")
+II |Guerreiro: Vorrus""")
 print(personagens)
-sobreMimArquivo = ('IV | Sobre mim')
-print(sobreMimArquivo)
+saibaMaisArquivo = ('IV | Saiba mais')
+print(saibaMaisArquivo)
 pulaLinha()
 
 
