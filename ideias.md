@@ -15,4 +15,9 @@
 # Depois de alguns dias de código, estou aqui finalizando o jogo
 - não vou conseguir dizer tudo que gostaria inicialmente e todas essas ideias acima, o jogo ficou bem mais curto do que eu planejei. No momento ainda não estou preparado.
 - estou terminando de escrever o tal arquivo "sobremim", mas sem usar o google docs nem nada do tipo. Espero que fique entendível o que pretendo fazer. 
-- provavelmente amanhã eu termino de escrever esse arquivo e começo a arrumar o código principal. No último commit eu venho aqui declarar o meu obrigado.
+- provavelmente amanhã eu termino de escrever esse arquivo e começo a arrumar o código principal.
+
+# 28 de Junho de 2023
+- Ok pessoal, dei um breve tempo por conta das férias da facul e outros motivos, mas estou finalizando o projeto agora.
+  Espero que gostem de todo esse universo.
+  
