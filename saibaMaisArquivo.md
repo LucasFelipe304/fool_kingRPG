@@ -6,8 +6,9 @@
 
 <h2>Sobre os boss's</h2>
   - Sempre gostei de coisas bizarras e misteriosas. As criaturas citadas no jogo são baseadas no próprio rpg o qual participei, e também no desenho Gravity Falls: Um verão de mistérios, criado por Alex Hirsch. Apesar de ser um desenho, há coisas incríveis por trás da cidade a qual os gêmeos passam seu verão: As anotações nos diários, teorias da conspiração, easter eggs, mistérios e muito mais. Recomendo a todos que assistam.
-  - Eu realmente não sei se o jogo será do agrado de todos, não sou um bom roteirista e, não sei se perceberam, mas a segunda criatura fala de coisas tanto quanto pesadas, podendo causar desconforto ou gatilhos em algumas pessoas.
+  - Eu realmente não sei se o jogo será do agrado de todos, não sou um bom roteirista e, não sei se perceberam, mas a segunda criatura fala de coisas tanto quanto pesadas, podendo causar desconforto ou gatilhos em algumas pessoas. Minha intenção é expressar meus sentimentos a partir das falas da criatura.
 
 <h2>Sobre mim</h2>
-  - Oi! Meu nome é Lucas, tenho 18 anos e trabalho como ajudante geral em uma empresa de embalagens, também cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera (2º Semestre).
+  - Oi! Meu nome é Lucas, tenho 18 anos e trabalho como ajudante geral em uma empresa de embalagens. Também estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera (2º Semestre).
   - Inicialmente, no "ideais.md" eu gostaria de dizer muito mais coisas, muitas mesmo. Eu tinha alguns planos, coisas que eu gostaria de dizer e tornar tudo isso muito mais interessante, mas parece que é tudo questão de empolgação momentânea e eu não consegui guardar tudo para dizer aqui nesse arquivo.
+  - Enfim, espero que você goste e aproveite um pouco desse meu projeto.
